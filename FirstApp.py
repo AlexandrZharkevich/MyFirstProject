@@ -5,3 +5,6 @@ def space(planet_name, center="Star"):
 space("Mars")
 
 space("Mars", 10000)
+
+space("Pluto", "Black Hole")
+
